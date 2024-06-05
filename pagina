@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Equipo Linces</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Equipo Linces</h1>
+        <img src="logo-linces-uvm-2022.png" alt="Logo Linces" width="200" height="200">
+    </header>
+
+    <section class="integrantes">
+        <h3>Integrantes del grupo:</h3>
+        <ul>
+            <li>Antich, Maria Paz</li>
+            <li>Boscafiori, Lucia</li>
+            <li>Di Paola, Delfina</li>
+            <li>Gual, Guadalupe</li>
+            <li>Gulle Linares, María Emilia</li>
+            <li>Herrera, Martín</li>
+        </ul>
+    </section>
+
+    <section class="modulos">
+        <hr>
+        <h2>MODULO 1</h2>
+        <a href="https://github.com/MartinFH2002/MODULO1">Link al Módulo 1 - Martín Herrera</a>
+        <h2>MODULO 2</h2>
+        <a href="https://github.com/delfinadipa/MODULO-2">Link al Módulo 2 - Delfina Di Paola</a>
+        <h2>MODULO Especial Sitevinitech</h2>
+        <a href="https://github.com/emigulle/Modulo-Especial-Sitevinitech">Link al Módulo Especial Sitevinitech - María Emilia Gullé</a>
+        <hr>
+    </section>
+
+    <section class="miembros">
+        <div class="miembro">
+            <img src="emi.png" alt="Emilia Gullé Linares" width="80" height="80">
+            <h3>Emilia Gullé Linares</h3>
+            <p>mail: <a href="mailto:emigulle@gmail.com">emigulle@gmail.com</a></p>
+            <p><a href="https://github.com/emigulle">Perfil Github</a></p>
+        </div>
+        
+        <div class="miembro">
+            <img src="guada.png" alt="Guadalupe Gual Grossi" width="80" height="80">
+            <h3>Guadalupe Gual Grossi</h3>
+            <p>mail: <a href="mailto:guadalupegual03@gmail.com">guadalupegual03@gmail.com</a></p>
+            <p><a href="https://github.com/Guada7890">Perfil Github</a></p>
+        </div>
+        
+        <div class="miembro">
+            <img src="lu.png" alt="Lucia Boscafiori" width="80" height="80">
+            <h3>Lucia Boscafiori</h3>
+            <p>mail: <a href="mailto:luciaboscafiori@gmail.com">luciaboscafiori@gmail.com</a></p>
+            <p><a href="https://github.com/luciaboscafiori">Perfil Github</a></p>
+        </div>
+        
+        <div class="miembro">
+            <img src="tincho.png" alt="Martin Herrera" width="80" height="80">
+            <h3>Martin Herrera</h3>
+            <p>mail: <a href="mailto:martinfederico.herrera@gmail.com">martinfederico.herrera@gmail.com</a></p>
+            <p><a href="https://github.com/MartinFH2002">Perfil Github</a></p>
+        </div>
+        
+        <div class="miembro">
+            <img src="pipi.png" alt="María Paz Antich" width="80" height="80">
+            <h3>María Paz Antich</h3>
+            <p>mail: <a href="mailto:mariapazantich2@gmail.com">mariapazantich2@gmail.com</a></p>
+            <p><a href="https://github.com/mariapazantich">Perfil Github</a></p>
+        </div>
+        
+        <div class="miembro">
+            <img src="delfi.png" alt="Delfina Di Paola" width="80" height="80">
+            <h3>Delfina Di Paola</h3>
+            <p>mail: <a href="mailto:delfinadipaola2003@gmail.com">delfinadipaola2003@gmail.com</a></p>
+            <p><a href="https://github.com/delfinadipa">Perfil Github</a></p>
+        </div>
+    </section>
+</body>
+</html>
